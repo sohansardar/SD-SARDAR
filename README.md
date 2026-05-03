@@ -1,2 +1,2 @@
 # SD-SARDAR
-This is my firstGit repository.
+This is my first Git Repository. Author - Sohan Sardar
